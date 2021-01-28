@@ -1,0 +1,5 @@
+argon2-cffi==20.1.0
+cffi==1.14.4
+pycparser==2.20
+pycryptodome==3.9.9
+six==1.15.0
